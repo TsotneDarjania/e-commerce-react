@@ -8,7 +8,7 @@ import { Provider } from "react-redux";
 import store from "./redux-state/CartState";
 import { ChakraProvider } from "@chakra-ui/react";
 
-console.log(3);
+console.log(4);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
